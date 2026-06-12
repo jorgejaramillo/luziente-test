@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luciente.org/proyecto1.html</loc>
+    <loc>https://jorgejaramillo.github.io/luziente-test/proyecto1</loc>
   </url>
   <url>
-    <loc>https://luciente.org/index.html</loc>
+    <loc>https://jorgejaramillo.github.io/luziente-test/proyecto2</loc>
+  </url>
+  <url>
+    <loc>https://jorgejaramillo.github.io/luziente-test/test-2</loc>
+  </url>
+  <url>
+    <loc>https://jorgejaramillo.github.io/luziente-test/test-3</loc>
+  </url>
+  <url>
+    <loc>https://jorgejaramillo.github.io/luziente-test/index</loc>
   </url>
 </urlset>
